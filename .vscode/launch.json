@@ -1,0 +1,234 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OOXX_3x3",
+            "request": "launch",
+            "mainClass": "OOXX_3x3.OOXX_3x3",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "ComputerScience-Java-Code_9eaf2ae9"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "MediaDemo",
+            "request": "launch",
+            "mainClass": "play_music_demo.MediaDemo",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml,javafx.media",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "circle_control",
+            "request": "launch",
+            "mainClass": "circle_control.circle_control",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "OOXX_3x3",
+            "request": "launch",
+            "mainClass": "OOXX_3x3.OOXX_3x3",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P14_111502522",
+            "request": "launch",
+            "mainClass": "P14_111502522.P14_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P12_111502522",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "P12_111502522.P12_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P11_111502522",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "P11_111502522.P11_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "E2_111502522",
+            "request": "launch",
+            "mainClass": "Exam.Exam_20230505.E2_111502522.E2_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "E1_111502522",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Exam.Exam_20230505.E1_111502522.E1_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A12_111502522",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "A12_111502522.A12_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A11_111502522",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "A11_111502522.A11_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A10_111502522",
+            "request": "launch",
+            "mainClass": "A10_111502522.A10_111502522",
+            "vmArgs": "--module-path \"C:\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A14_111502522",
+            "request": "launch",
+            "mainClass": "A14_111502522.A14_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A13_111502522",
+            "request": "launch",
+            "mainClass": "A13_111502522.A13_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A1_111502522",
+            "request": "launch",
+            "mainClass": "A1_111502522.A1_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A2_111502522",
+            "request": "launch",
+            "mainClass": "A2_111502522.A2_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A3_111502522",
+            "request": "launch",
+            "mainClass": "A3_111502522.A3_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A4_111502522",
+            "request": "launch",
+            "mainClass": "A4_111502522.A4_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A8_111502522",
+            "request": "launch",
+            "mainClass": "A8_111502522.A8_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "A9_111502522",
+            "request": "launch",
+            "mainClass": "A9_111502522.A9_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P13_111502522",
+            "request": "launch",
+            "mainClass": "P13_111502522.P13_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P2_111502522",
+            "request": "launch",
+            "mainClass": "P2_111502522.P2_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P3_111502522",
+            "request": "launch",
+            "mainClass": "P3_111502522.P3_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P4_111502522",
+            "request": "launch",
+            "mainClass": "P4_111502522.P4_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P8_111502522",
+            "request": "launch",
+            "mainClass": "P8_111502522.P8_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "P9_111502522",
+            "request": "launch",
+            "mainClass": "P9_111502522.P9_111502522",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "array_note",
+            "request": "launch",
+            "mainClass": "note.array_note",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "arraylist_note",
+            "request": "launch",
+            "mainClass": "note.arraylist_note",
+            "projectName": "VScode(Java)_ebed7379"
+        },
+        {
+            "type": "java",
+            "name": "class_note",
+            "request": "launch",
+            "mainClass": "note.class_note",
+            "projectName": "VScode(Java)_ebed7379"
+        }
+    ]
+}
